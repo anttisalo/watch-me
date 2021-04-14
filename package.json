@@ -1,0 +1,11 @@
+{
+  "name": "watch-me",
+  "version": "1.0.0",
+  "repository": "https://github.com/anttisalo/watch-me.git",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
